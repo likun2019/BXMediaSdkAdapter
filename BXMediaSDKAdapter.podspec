@@ -91,8 +91,8 @@ spec.platform     = :ios, "9.0"
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "Classes", "Classes/**/*.{h,m}"
-  spec.exclude_files = "Classes/Exclude"
+  #spec.source_files  = "Classes", "Classes/**/*.{h,m}"
+  #spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
 
@@ -139,7 +139,7 @@ spec.platform     = :ios, "9.0"
     ss.dependency 'BXMediaSDK'
     ss.dependency 'Bytedance-UnionAD'
     ss.ios.deployment_target = '9.0'
-    ss.source_files = 'BXMedia/BXMediaSDKTTRewardedVideoAdapter.framework'
+    ss.vendored_frameworks = 'BXMediaSDKAdapter/BXMedia/BXMediaSDKTTRewardedVideoAdapter.framework'
  end
 
 end

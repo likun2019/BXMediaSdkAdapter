@@ -139,7 +139,7 @@ spec.platform     = :ios, "9.0"
     ss.dependency 'BXMediaSDK'
     ss.dependency 'Bytedance-UnionAD'
     ss.ios.deployment_target = '9.0'
-    ss.source_files = 'BXMediaSDKAdapter/BXMedia/BXMediaSDKTTRewardedVideoAdapter/**/*'
+    ss.source_files = 'BXMedia/BXMediaSDKTTRewardedVideoAdapter.framework'
  end
 
 end

@@ -1,0 +1,6 @@
+framework module BXMediaGDTVideoAdapter {
+  umbrella header "BXMediaGDTVideoAdapter.h"
+
+  export *
+  module * { export * }
+}

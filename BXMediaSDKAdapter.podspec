@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "BXMediaSDKAdapter"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "A short description of BXMediaSDKAdapter for iOS"
 
   # This description is used to generate tags and improve search results.
@@ -135,11 +135,18 @@ spec.platform     = :ios, "9.0"
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # spec.dependency "JSONKit", "~> 1.4"
 
-  spec.subspec 'BXMediaSDKTTRewardedVideoAdapter' do |ss|
+  spec.subspec 'BXMediaTTVideoAdapter' do |ss|
     ss.dependency 'BXMediaSDK'
-    ss.dependency 'Bytedance-UnionAD'
+    ss.dependency 'Ads-CN'
     ss.ios.deployment_target = '9.0'
-    ss.vendored_frameworks = 'BXMediaSDKAdapter/BXMedia/BXMediaSDKTTRewardedVideoAdapter.framework'
+    ss.vendored_frameworks = 'BXMedia/BXMediaTTVideoAdapter.framework'
  end
+
+ spec.subspec 'BXMediaGDTVideoAdapter' do |ss|
+  ss.dependency 'BXMediaSDK'
+  ss.dependency 'GDTMobSDK'
+  ss.ios.deployment_target = '9.0'
+  ss.vendored_frameworks = 'BXMedia/BXMediaGDTVideoAdapter.framework'
+end
 
 end

@@ -1,6 +1,0 @@
-framework module BXMediaSDKTTRewardedVideoAdapter {
-  umbrella header "BXMediaSDKTTRewardedVideoAdapter.h"
-
-  export *
-  module * { export * }
-}

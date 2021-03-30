@@ -172,13 +172,9 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Headers/BXMediaTTVideoAdapter.h</key>
-		<data>
-		WygCZRgcWrZWs3qHqitcg7oEPBA=
-		</data>
 		<key>Info.plist</key>
 		<data>
-		sKsYSXqEblbvNG/at603iCoUSEM=
+		Fq7L3GKpLyLHYh/W6aP0d2cW3kw=
 		</data>
 		<key>LICENSE</key>
 		<data>
@@ -464,17 +460,6 @@
 			</data>
 			<key>optional</key>
 			<true/>
-		</dict>
-		<key>Headers/BXMediaTTVideoAdapter.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			WygCZRgcWrZWs3qHqitcg7oEPBA=
-			</data>
-			<key>hash2</key>
-			<data>
-			Hu2RIGdf79sYm6yfz3EcOg7ldHKYVgPVigIBWRQ21W4=
-			</data>
 		</dict>
 		<key>LICENSE</key>
 		<dict>

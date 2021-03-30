@@ -142,11 +142,11 @@ spec.platform     = :ios, "9.0"
     ss.vendored_frameworks = 'BXMedia/BXMediaTTVideoAdapter.framework'
  end
 
- spec.subspec 'BXMediaGDTVideoAdapter' do |ss|
-  ss.dependency 'BXMediaSDK'
-  ss.dependency 'GDTMobSDK'
-  ss.ios.deployment_target = '9.0'
-  ss.vendored_frameworks = 'BXMedia/BXMediaGDTVideoAdapter.framework'
-end
+  spec.subspec 'BXMediaGDTVideoAdapter' do |ss|
+    ss.dependency 'BXMediaSDK'
+    ss.dependency 'GDTMobSDK'
+    ss.ios.deployment_target = '9.0'
+    ss.vendored_frameworks = 'BXMedia/BXMediaGDTVideoAdapter.framework'
+  end
 
 end

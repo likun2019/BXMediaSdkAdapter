@@ -6,11 +6,11 @@
 	<dict>
 		<key>BUAdSDK.bundle/Assets.car</key>
 		<data>
-		Ixt3ng3j0F18tq3mx3Goht+EQ5I=
+		+F4I5xq5RQPLdU5PnujQj/tsAkA=
 		</data>
 		<key>BUAdSDK.bundle/Info.plist</key>
 		<data>
-		bf4SXacpOr8bFEdR4pmAkapzm9g=
+		L4dYhj2e19oFq45Vu0tNe8pq064=
 		</data>
 		<key>BUAdSDK.bundle/ar.lproj/BULanguage.strings</key>
 		<dict>
@@ -23,15 +23,11 @@
 		</dict>
 		<key>BUAdSDK.bundle/bu_logo@2x.data</key>
 		<data>
-		4BTWQpeS/F1thY2XIfNQbfhlNto=
+		+mtwru9JejoXxD0IZqBa0U0UawM=
 		</data>
 		<key>BUAdSDK.bundle/bu_logo@3x.data</key>
 		<data>
-		8rVpQ7ZujxnThZ/+u6O7BfipNIQ=
-		</data>
-		<key>BUAdSDK.bundle/bu_slienceAudio.aiff</key>
-		<data>
-		v74jzRIcosmBtYPI2ZcLbyHgbog=
+		W2jGO8ru7N6WDPaAizhoT5zVVF4=
 		</data>
 		<key>BUAdSDK.bundle/de.lproj/BULanguage.strings</key>
 		<dict>
@@ -100,7 +96,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6AxaIlJxX5yTphDTuCx5GAY5L/0=
+			m8gaqJaU2wCsgmo2z9sHtEuPiGU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -143,7 +139,7 @@
 		</dict>
 		<key>BUAdSDK.bundle/version.txt</key>
 		<data>
-		SRuyI1Tj1j6sGOU/RWuLYwVzyfg=
+		ZiDRg+xMThSylYOgYmD5/LVpPpo=
 		</data>
 		<key>BUAdSDK.bundle/vi.lproj/BULanguage.strings</key>
 		<dict>
@@ -174,7 +170,7 @@
 		</dict>
 		<key>Info.plist</key>
 		<data>
-		sKsYSXqEblbvNG/at603iCoUSEM=
+		6PVEDjkUxS/wkMZF4MS+cIV2EVA=
 		</data>
 		<key>LICENSE</key>
 		<data>
@@ -191,22 +187,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ixt3ng3j0F18tq3mx3Goht+EQ5I=
+			+F4I5xq5RQPLdU5PnujQj/tsAkA=
 			</data>
 			<key>hash2</key>
 			<data>
-			P5Fa5x2VG77mPWrKvIpLo8wgj0v6nCgH159qEGWGSWE=
+			Ayal9VHvIZraxfZ/e+RKnlgugb9i7Xljd5/yZ/F5A3U=
 			</data>
 		</dict>
 		<key>BUAdSDK.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bf4SXacpOr8bFEdR4pmAkapzm9g=
+			L4dYhj2e19oFq45Vu0tNe8pq064=
 			</data>
 			<key>hash2</key>
 			<data>
-			M2s6h/MexunqEin8nwfVsnh8/qMWrh1Rqmv6zRzps/g=
+			2YjHXhvpd4q3XvegLGCl1LbBxwSPe+RjtxKXuKSUQbo=
 			</data>
 		</dict>
 		<key>BUAdSDK.bundle/ar.lproj/BULanguage.strings</key>
@@ -226,33 +222,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4BTWQpeS/F1thY2XIfNQbfhlNto=
+			+mtwru9JejoXxD0IZqBa0U0UawM=
 			</data>
 			<key>hash2</key>
 			<data>
-			KUO+o4hz7eqrVmKfSFephA/nUOhtAUJoDoITNDj9WXc=
+			FcLQwj/fRQoBHL9SO/VdQ6fCdWj6lBxjAoP8HbOaaOM=
 			</data>
 		</dict>
 		<key>BUAdSDK.bundle/bu_logo@3x.data</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8rVpQ7ZujxnThZ/+u6O7BfipNIQ=
+			W2jGO8ru7N6WDPaAizhoT5zVVF4=
 			</data>
 			<key>hash2</key>
 			<data>
-			IvEf5cqOkjuVMMF6mRR2sGHKDuLl1WcT0QM0oNlBUlY=
-			</data>
-		</dict>
-		<key>BUAdSDK.bundle/bu_slienceAudio.aiff</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			v74jzRIcosmBtYPI2ZcLbyHgbog=
-			</data>
-			<key>hash2</key>
-			<data>
-			DWsomZiPM/47JpKBs9w/AAdB4pofnAkaiDL01VZGjDo=
+			ga6+snmS16+p0gfOTOTeZfA8E5NRQEMICArPOz0Rihc=
 			</data>
 		</dict>
 		<key>BUAdSDK.bundle/de.lproj/BULanguage.strings</key>
@@ -350,11 +335,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6AxaIlJxX5yTphDTuCx5GAY5L/0=
+			m8gaqJaU2wCsgmo2z9sHtEuPiGU=
 			</data>
 			<key>hash2</key>
 			<data>
-			wTabtJXqOPzVL6jAe+d49mH3RR3hlpnFXI5zKihYIsY=
+			E+YWi0PqeeF3You4ZtMXQHE9C2B/dbUNrvGucOS+P9I=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -415,11 +400,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SRuyI1Tj1j6sGOU/RWuLYwVzyfg=
+			ZiDRg+xMThSylYOgYmD5/LVpPpo=
 			</data>
 			<key>hash2</key>
 			<data>
-			zS1KZJjeXdbZXj4Bs8P2i+gMG1eGupEmsRMRVmTVgYI=
+			b9snRxftl0O2J6MS+2LlBg2U0hfAJKk18ei0OIxOchY=
 			</data>
 		</dict>
 		<key>BUAdSDK.bundle/vi.lproj/BULanguage.strings</key>
